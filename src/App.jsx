@@ -5,6 +5,7 @@ import Hero from './sections/Hero';
 import Pricing from './sections/Pricing';
 import Testimonials from './sections/Testimonials';
 import Download from './sections/Download';
+import Footer from './sections/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Faq />
       <Testimonials />
       <Download />
+      <Footer />
     </main>
   );
 }
